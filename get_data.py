@@ -50,12 +50,16 @@ if __name__ == '__main__':
     loop = asyncio.get_event_loop()
     for league_name in args.leagues:
         for year_int in range(min(args.years), max(args.years) + 1):
-            data_raw = loop.run_until_complete(get_match_results(year_int, league_name))
+            data_raw = loop.run_until_complete(
+                get_match_results(year_int, league_name)
+            )
 
             # Process and save
-            data = pd.DataFrame([strip_match_info(match) for match in data_raw])
+            data = pd.DataFrame(
+                [strip_match_info(match) for match in data_raw]
+            )
             dir_name = f'data/{league_name}/'
             path = Path(dir_name).mkdir(parents=True, exist_ok=True)
             data.to_csv(dir_name + f'/{year_int}.csv', index=False)
 
-    #TODO: parallelise loops above
+    # TODO: parallelise loops above with asyncio
