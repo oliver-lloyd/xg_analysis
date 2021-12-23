@@ -1,0 +1,154 @@
+home_team,home_goals,home_xg,away_team,away_goals,away_xg
+Borussia M.Gladbach,1,1.98777,Bayern Munich,1,2.91794
+Arminia Bielefeld,0,0.575032,Freiburg,0,1.63663
+Augsburg,0,0.734658,Hoffenheim,4,3.44423
+VfB Stuttgart,5,4.25968,Greuther Fuerth,1,1.31466
+Union Berlin,1,0.443841,Bayer Leverkusen,1,0.7943
+Wolfsburg,1,2.78774,Bochum,0,0.297792
+Borussia Dortmund,5,2.83799,Eintracht Frankfurt,2,1.36709
+Mainz 05,1,1.27109,RasenBallsport Leipzig,0,0.841814
+FC Cologne,3,1.62567,Hertha Berlin,1,2.1078
+RasenBallsport Leipzig,4,2.86627,VfB Stuttgart,0,0.958579
+Greuther Fuerth,1,2.57735,Arminia Bielefeld,1,0.763691
+Bochum,2,1.05301,Mainz 05,0,0.817413
+Hertha Berlin,1,1.17401,Wolfsburg,2,0.558009
+Freiburg,2,1.58418,Borussia Dortmund,1,1.49634
+Eintracht Frankfurt,0,1.3297,Augsburg,0,0.16593
+Bayer Leverkusen,4,1.94592,Borussia M.Gladbach,0,1.66054
+Hoffenheim,2,0.967015,Union Berlin,2,2.35122
+Bayern Munich,3,3.08002,FC Cologne,2,0.957893
+Borussia Dortmund,3,3.40779,Hoffenheim,2,2.42487
+FC Cologne,2,2.91135,Bochum,1,0.721445
+Arminia Bielefeld,1,0.626534,Eintracht Frankfurt,1,1.78556
+Augsburg,1,1.6937,Bayer Leverkusen,4,2.1207
+Mainz 05,3,2.79493,Greuther Fuerth,0,0.304223
+VfB Stuttgart,2,2.28063,Freiburg,3,1.36171
+Bayern Munich,5,4.25513,Hertha Berlin,0,0.575566
+Union Berlin,2,1.56256,Borussia M.Gladbach,1,1.52841
+Wolfsburg,1,1.11229,RasenBallsport Leipzig,0,1.43914
+Greuther Fuerth,0,0.392561,Wolfsburg,2,1.44282
+Hoffenheim,0,0.509713,Mainz 05,2,0.933476
+Freiburg,1,0.871642,FC Cologne,1,1.50213
+Union Berlin,0,1.71533,Augsburg,0,0.831722
+Bayer Leverkusen,3,0.471066,Borussia Dortmund,4,2.2922
+RasenBallsport Leipzig,1,0.347898,Bayern Munich,4,4.30091
+Eintracht Frankfurt,1,0.855719,VfB Stuttgart,1,0.618243
+Bochum,1,1.02687,Hertha Berlin,3,0.605231
+Borussia M.Gladbach,3,2.12932,Arminia Bielefeld,1,1.53189
+Hertha Berlin,2,1.59085,Greuther Fuerth,1,1.55279
+Augsburg,1,0.494801,Borussia M.Gladbach,0,0.74574
+Mainz 05,0,1.26167,Freiburg,0,0.364252
+Arminia Bielefeld,0,1.00534,Hoffenheim,0,1.54136
+Bayern Munich,7,6.88189,Bochum,0,1.23312
+FC Cologne,1,1.68932,RasenBallsport Leipzig,1,2.03702
+VfB Stuttgart,1,1.41677,Bayer Leverkusen,3,1.59332
+Borussia Dortmund,4,1.09855,Union Berlin,2,1.7321
+Wolfsburg,1,1.84989,Eintracht Frankfurt,1,0.280625
+Greuther Fuerth,1,0.655908,Bayern Munich,3,0.677915
+Union Berlin,1,1.25321,Arminia Bielefeld,0,0.435528
+Bayer Leverkusen,1,1.45034,Mainz 05,0,0.930118
+Eintracht Frankfurt,1,0.950916,FC Cologne,1,1.10981
+RasenBallsport Leipzig,6,4.25065,Hertha Berlin,0,0.341267
+Hoffenheim,3,1.78602,Wolfsburg,1,0.504541
+Borussia M.Gladbach,1,1.65529,Borussia Dortmund,0,0.568652
+Bochum,0,0.925854,VfB Stuttgart,0,0.29441
+Freiburg,3,3.97075,Augsburg,0,0.191653
+FC Cologne,3,2.8694,Greuther Fuerth,1,0.984368
+Hertha Berlin,1,0.913547,Freiburg,2,0.861008
+VfB Stuttgart,3,0.76705,Hoffenheim,1,0.978235
+Wolfsburg,1,1.22196,Borussia M.Gladbach,3,3.51831
+Borussia Dortmund,2,2.72281,Augsburg,1,0.746485
+RasenBallsport Leipzig,3,2.46461,Bochum,0,1.51583
+Mainz 05,1,1.25545,Union Berlin,2,1.1103
+Bayern Munich,1,2.18047,Eintracht Frankfurt,2,0.389616
+Arminia Bielefeld,0,0.447571,Bayer Leverkusen,4,2.96917
+Hoffenheim,5,4.18974,FC Cologne,0,0.484187
+Greuther Fuerth,0,0.69855,Bochum,1,1.72207
+Freiburg,1,1.63966,RasenBallsport Leipzig,1,1.65528
+Union Berlin,2,1.32884,Wolfsburg,0,1.28381
+Eintracht Frankfurt,1,1.70283,Hertha Berlin,2,2.56404
+Borussia Dortmund,3,2.3618,Mainz 05,1,0.610876
+Borussia M.Gladbach,1,2.28296,VfB Stuttgart,1,0.292328
+Bayer Leverkusen,1,0.729378,Bayern Munich,5,3.44913
+Augsburg,1,0.913256,Arminia Bielefeld,1,0.285865
+Mainz 05,4,4.13366,Augsburg,1,0.664542
+Arminia Bielefeld,1,1.40239,Borussia Dortmund,3,2.58993
+Wolfsburg,0,1.72591,Freiburg,2,2.17659
+RasenBallsport Leipzig,4,2.30304,Greuther Fuerth,1,1.94277
+Bayern Munich,4,3.31148,Hoffenheim,0,0.446465
+Hertha Berlin,1,1.47383,Borussia M.Gladbach,0,0.47063
+FC Cologne,2,1.71198,Bayer Leverkusen,2,1.79735
+VfB Stuttgart,1,0.426401,Union Berlin,1,1.01643
+Bochum,2,2.78664,Eintracht Frankfurt,0,1.51826
+Hoffenheim,2,0.860088,Hertha Berlin,0,0.471538
+Arminia Bielefeld,1,0.497896,Mainz 05,2,2.97383
+Freiburg,3,1.2181,Greuther Fuerth,1,0.48039
+Union Berlin,2,0.744794,Bayern Munich,5,3.14739
+Bayer Leverkusen,0,1.30903,Wolfsburg,2,1.8693
+Borussia Dortmund,2,1.75772,FC Cologne,0,1.20191
+Eintracht Frankfurt,1,0.594345,RasenBallsport Leipzig,1,3.99211
+Augsburg,4,2.59567,VfB Stuttgart,1,0.90948
+Borussia M.Gladbach,2,1.81742,Bochum,1,1.07958
+Mainz 05,1,0.94947,Borussia M.Gladbach,1,1.50835
+Bochum,2,2.12433,Hoffenheim,0,0.641687
+VfB Stuttgart,0,1.11192,Arminia Bielefeld,1,1.55125
+Wolfsburg,1,0.910085,Augsburg,0,0.867311
+Bayern Munich,2,3.16849,Freiburg,1,0.910798
+RasenBallsport Leipzig,2,2.48845,Borussia Dortmund,1,0.734721
+Hertha Berlin,1,0.903476,Bayer Leverkusen,1,0.774023
+FC Cologne,2,1.93335,Union Berlin,2,1.1297
+Greuther Fuerth,1,2.4344,Eintracht Frankfurt,2,1.26639
+Augsburg,2,0.614461,Bayern Munich,1,1.24258
+Arminia Bielefeld,2,1.40579,Wolfsburg,2,1.35662
+Hoffenheim,2,2.88876,RasenBallsport Leipzig,0,0.211083
+Borussia M.Gladbach,4,2.47443,Greuther Fuerth,0,0.307559
+Bayer Leverkusen,1,1.62637,Bochum,0,0.708697
+Borussia Dortmund,2,1.99186,VfB Stuttgart,1,1.54108
+Union Berlin,2,1.89108,Hertha Berlin,0,0.211495
+Freiburg,0,1.5667,Eintracht Frankfurt,2,1.24268
+Mainz 05,1,0.941346,FC Cologne,1,1.75564
+VfB Stuttgart,2,0.276918,Mainz 05,1,1.17743
+Greuther Fuerth,3,1.36493,Hoffenheim,6,3.01705
+Bochum,2,0.955994,Freiburg,1,2.12135
+FC Cologne,4,1.48695,Borussia M.Gladbach,1,1.30291
+Hertha Berlin,1,1.92656,Augsburg,1,1.61295
+Wolfsburg,1,2.17146,Borussia Dortmund,3,2.35127
+Bayern Munich,1,2.67728,Arminia Bielefeld,0,0.385377
+Eintracht Frankfurt,2,1.69692,Union Berlin,1,1.07386
+RasenBallsport Leipzig,1,1.43225,Bayer Leverkusen,3,1.23553
+Union Berlin,2,3.76492,RasenBallsport Leipzig,1,1.14392
+Arminia Bielefeld,1,1.01727,FC Cologne,1,1.18693
+Augsburg,2,2.86606,Bochum,3,2.04524
+Mainz 05,3,1.41164,Wolfsburg,0,0.760457
+Hoffenheim,3,0.924975,Eintracht Frankfurt,2,1.57864
+Bayer Leverkusen,7,2.4319,Greuther Fuerth,1,0.279746
+Borussia Dortmund,2,1.43058,Bayern Munich,3,2.42143
+VfB Stuttgart,2,0.921944,Hertha Berlin,2,1.25849
+Borussia M.Gladbach,0,1.07562,Freiburg,6,2.70796
+FC Cologne,0,1.15891,Augsburg,2,1.17632
+Bochum,1,0.966453,Borussia Dortmund,1,2.68284
+Hertha Berlin,2,2.23797,Arminia Bielefeld,0,0.454841
+Freiburg,1,2.25197,Hoffenheim,2,1.5054
+RasenBallsport Leipzig,4,4.80258,Borussia M.Gladbach,1,0.84748
+Bayern Munich,2,1.78613,Mainz 05,1,0.872668
+Wolfsburg,0,1.46986,VfB Stuttgart,2,1.53296
+Greuther Fuerth,1,0.680225,Union Berlin,0,1.83652
+Eintracht Frankfurt,5,1.44415,Bayer Leverkusen,2,1.60141
+VfB Stuttgart,0,1.04709,Bayern Munich,5,4.98146
+Arminia Bielefeld,2,0.642785,Bochum,0,0.748012
+Mainz 05,4,3.10591,Hertha Berlin,0,0.393369
+Wolfsburg,2,2.42693,FC Cologne,3,3.14693
+Borussia M.Gladbach,2,2.22983,Eintracht Frankfurt,3,2.50286
+Augsburg,1,1.56744,RasenBallsport Leipzig,1,3.08255
+Union Berlin,0,2.25007,Freiburg,0,1.22466
+Bayer Leverkusen,2,2.42553,Hoffenheim,2,1.68115
+Borussia Dortmund,3,1.91572,Greuther Fuerth,0,0.379024
+Bayern Munich,4,4.31291,Wolfsburg,0,1.41635
+Greuther Fuerth,0,0.0901985,Augsburg,0,1.48497
+Bochum,0,1.04215,Union Berlin,1,0.999651
+Hoffenheim,1,2.24422,Borussia M.Gladbach,1,1.62486
+Eintracht Frankfurt,1,1.52805,Mainz 05,0,0.832437
+RasenBallsport Leipzig,0,1.64503,Arminia Bielefeld,2,1.33454
+Hertha Berlin,3,1.61634,Borussia Dortmund,2,1.57262
+Freiburg,2,2.07857,Bayer Leverkusen,1,0.818605
+FC Cologne,1,1.35819,VfB Stuttgart,0,0.333564
